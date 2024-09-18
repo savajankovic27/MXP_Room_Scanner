@@ -1,3 +1,3 @@
-# 2DX3-Python-and-C-Project
-School Project for COMPENG 2DX3 - Written in C and Python. Code implemented on a microcontroller . 
-Repository includes photos of project, C and Python code, as well as the project report. 
+# MXP Room Scanner Project
+Project involving python scripting and use of microcontrollers to create vivid imagery of common areas. 
+PDF files contain details and images of the set up as well as the source code. 
